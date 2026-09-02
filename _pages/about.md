@@ -9,7 +9,6 @@ redirect_from:
 Hi, I’m Duncan.
 
 I’m a Computer Engineer.
-Right now, I’m Tech Lead at The Innovation Village in Uganda.
 
 I’m an infra nerd.
 I like building systems that refuse to die.
